@@ -24,7 +24,7 @@ public class Student
     }
 
     /**
-     * @param givenName the name to set now
+     * @param givenName the name 
      * showing you push aging push
      */
     public void setName(String givenName) {
